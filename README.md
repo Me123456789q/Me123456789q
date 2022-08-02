@@ -2,7 +2,7 @@
 - 👀 I’m interested in hacking 
 - 🌱 I’m currently learning the ways of it
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on Facebook mark shaw
+- 📫 How to reach me on Facebook 
 
 <!---
 Me123456789q/Me123456789q is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
